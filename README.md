@@ -1,4 +1,4 @@
-20200709_P2_使用docker-compose打包jupyter
+20200713_P1_使用docker-compose打包jupyter和python
 
 1.開啟虛擬機器(centos7)，建議使用user進入(建議別使用root)，進入後打開終端機
 
