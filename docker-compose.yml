@@ -18,6 +18,8 @@ services:
     container_name: python
     tty: true
     stdin_open: true
+    ports:
+      - "5000:5000"
     volumes:
       - ./python_code:/app
 #    command: python app.py
