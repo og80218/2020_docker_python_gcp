@@ -48,7 +48,7 @@
 	
 	pip3 install ta-lib
 	
-	#完成後，可開啟B終端機，下載ngrok(linux版)，並換時區開啟
+	#完成後，可開啟B終端機，linux內下載ngrok(linux版)，並換時區開啟
 	
 	./ngrok http 5000 -region au
 	
